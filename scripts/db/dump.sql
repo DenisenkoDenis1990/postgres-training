@@ -35,6 +35,7 @@ INSERT INTO users (email, role, name) VALUES
 INSERT INTO books (category_id, taken_by, title, year) VALUES
 (1, 1, 'Yet another book', 2020),
 (1, 2, 'Borman Cooling', 2019),
+(1, 3, 'Borman Heating', 2020),
 (2, 1, 'Book about book', 2019),
 (3, 4, 'Silly stealy', 2020),
 (4, 3, 'Apple. Story.', 2021),
